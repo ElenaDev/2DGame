@@ -1,0 +1,2486 @@
+fileFormatVersion: 2
+guid: 5feed2d7916b15847b5a9df6a7e3332b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7568127861259561179
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_0
+  - first:
+      213: -7788519079340475001
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_1
+  - first:
+      213: 8264021516052507288
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_2
+  - first:
+      213: -6582165757406272216
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_3
+  - first:
+      213: -3894488907858334107
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_4
+  - first:
+      213: -5566355353671881600
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_5
+  - first:
+      213: 5082116137993064182
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_6
+  - first:
+      213: -1453224549790948141
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_7
+  - first:
+      213: -697530786180951635
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_8
+  - first:
+      213: -4521044105160571385
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_9
+  - first:
+      213: -6054423455519974022
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_10
+  - first:
+      213: -308219911143820319
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_11
+  - first:
+      213: 5891385673279270560
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_12
+  - first:
+      213: -8611991591623286445
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_13
+  - first:
+      213: -106102745942981948
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_14
+  - first:
+      213: -3033940374167890523
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_15
+  - first:
+      213: 8403750452840781304
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_16
+  - first:
+      213: -5175529360207795534
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_17
+  - first:
+      213: 3908588286544660627
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_18
+  - first:
+      213: -8879234702300112659
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_19
+  - first:
+      213: -9097159454191910908
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_20
+  - first:
+      213: -1991375920889213262
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_21
+  - first:
+      213: -1906529304766963943
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_22
+  - first:
+      213: 5230892625527466028
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_23
+  - first:
+      213: 8227296289368525432
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_24
+  - first:
+      213: 7644871334268110056
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_25
+  - first:
+      213: -5207754854679174204
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_26
+  - first:
+      213: 5856289388335843025
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_27
+  - first:
+      213: -549913459627708091
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_28
+  - first:
+      213: -5272177778659551876
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_29
+  - first:
+      213: 3409880523175506120
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_30
+  - first:
+      213: -5425508515026214672
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_31
+  - first:
+      213: -3656390791194306767
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_32
+  - first:
+      213: 451083912474238750
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_33
+  - first:
+      213: -6764180347327958472
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_34
+  - first:
+      213: -3585436969133263231
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_35
+  - first:
+      213: -5900975536194177631
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_36
+  - first:
+      213: 6436649664750530418
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_37
+  - first:
+      213: 1261994413107531549
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_38
+  - first:
+      213: 2418690424687633540
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_39
+  - first:
+      213: -6021571564923658420
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_40
+  - first:
+      213: -7759194863085264312
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_41
+  - first:
+      213: -2169925944885596206
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_42
+  - first:
+      213: 1782858967965212364
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_43
+  - first:
+      213: 3105012770927458313
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_44
+  - first:
+      213: -7728267000116788332
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_45
+  - first:
+      213: -4491598458296887949
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_46
+  - first:
+      213: 1182062394098110432
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_47
+  - first:
+      213: -5181142952312082509
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_48
+  - first:
+      213: 8103397085935862156
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_49
+  - first:
+      213: 3121050240099866144
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_50
+  - first:
+      213: -204890954579047493
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_51
+  - first:
+      213: -9153956871740830276
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_52
+  - first:
+      213: 5332454256989277355
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_53
+  - first:
+      213: 3838203822143232979
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_54
+  - first:
+      213: 3398712893576063345
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_55
+  - first:
+      213: 6356811335888808848
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_56
+  - first:
+      213: 187069495682145904
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_57
+  - first:
+      213: 5447193374246953215
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_58
+  - first:
+      213: 4143709336113153246
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_59
+  - first:
+      213: 5523733727601836644
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_60
+  - first:
+      213: 7787744412418557927
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_61
+  - first:
+      213: -1559317556150374348
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_62
+  - first:
+      213: -636960303292524641
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_63
+  - first:
+      213: 3335292080915301834
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_64
+  - first:
+      213: 4295754445786190243
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_65
+  - first:
+      213: 2855171610616843078
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_66
+  - first:
+      213: -1214519960807205360
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_67
+  - first:
+      213: -3227752677225981096
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_68
+  - first:
+      213: 8694235521299415768
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_69
+  - first:
+      213: 2024626141343797581
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_70
+  - first:
+      213: -527660606546693353
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_71
+  - first:
+      213: 3816659805949808093
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_72
+  - first:
+      213: -6508863990129867109
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_73
+  - first:
+      213: -6519055030770348273
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_74
+  - first:
+      213: -3275822081464845609
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_75
+  - first:
+      213: 9120344689843005036
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_76
+  - first:
+      213: -3947369133159273299
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_77
+  - first:
+      213: -4717786854978217255
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_78
+  - first:
+      213: -7092282908022850941
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_79
+  - first:
+      213: 3744420704022761976
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_80
+  - first:
+      213: -1959039402540969708
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_81
+  - first:
+      213: -8335724162404998521
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_82
+  - first:
+      213: -3840143324090657431
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_83
+  - first:
+      213: 6856421043927367216
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_84
+  - first:
+      213: 1531208596753206493
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_0
+  - first:
+      213: 7637810268389332583
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_1
+  - first:
+      213: 8943071870172665097
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_2
+  - first:
+      213: 3175049186845359243
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_3
+  - first:
+      213: 5315885513530313872
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_4
+  - first:
+      213: -3158484276282567894
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_5
+  - first:
+      213: 1873049731233571665
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_6
+  - first:
+      213: 6387273500573677606
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_7
+  - first:
+      213: 6286471288499351252
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_8
+  - first:
+      213: -3983005419411839140
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_9
+  - first:
+      213: -3868366322644208883
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_10
+  - first:
+      213: 4234399474644695120
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_11
+  - first:
+      213: -1567205084695210445
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_12
+  - first:
+      213: -6973360278656273786
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_13
+  - first:
+      213: -8107085697999624283
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_14
+  - first:
+      213: 9038951114693144929
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_15
+  - first:
+      213: -2372587264983299252
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_16
+  - first:
+      213: 3283559136100321979
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_17
+  - first:
+      213: 2472433038828596681
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_18
+  - first:
+      213: -7602871073898147429
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_19
+  - first:
+      213: 513623763230644209
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_20
+  - first:
+      213: 829675585766700989
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_21
+  - first:
+      213: -9129582135259946244
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_22
+  - first:
+      213: -623477138414639501
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_23
+  - first:
+      213: 3807820251267226486
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_24
+  - first:
+      213: -1166504824297837980
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_25
+  - first:
+      213: 1271196032186723249
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_26
+  - first:
+      213: -3356658685972203718
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_27
+  - first:
+      213: -3940358526260880781
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_28
+  - first:
+      213: 5379583015446504057
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_29
+  - first:
+      213: -4720342544733658975
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_30
+  - first:
+      213: 2663422877940707930
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_31
+  - first:
+      213: 5122355884207356258
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_32
+  - first:
+      213: -1093252774297517106
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_33
+  - first:
+      213: -1931371556632923518
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_34
+  - first:
+      213: 9074928483818712779
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_35
+  - first:
+      213: 4411375794704859195
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_36
+  - first:
+      213: 892609415184248285
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_37
+  - first:
+      213: -2040902332631473149
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_38
+  - first:
+      213: 772935726999292146
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_39
+  - first:
+      213: -5556054130080805086
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_40
+  - first:
+      213: 4267746359107840324
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_41
+  - first:
+      213: -4586355146096361688
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_42
+  - first:
+      213: 3022944553754205354
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_43
+  - first:
+      213: -1952075220785162672
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_44
+  - first:
+      213: 361129857260628734
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_45
+  - first:
+      213: 2230101822520892836
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_46
+  - first:
+      213: -3158378586728680650
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_47
+  - first:
+      213: -4285719623734014493
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_48
+  - first:
+      213: 4965439451233540287
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_49
+  - first:
+      213: -7156924070555688733
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_50
+  - first:
+      213: -9099378933913416715
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_51
+  - first:
+      213: -7603406947075930851
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_52
+  - first:
+      213: -7031450433822985576
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_53
+  - first:
+      213: -4214286790115296483
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_54
+  - first:
+      213: 5682530719652630520
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_55
+  - first:
+      213: 3030015401467430663
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_56
+  - first:
+      213: 1040632213206461489
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_57
+  - first:
+      213: 1688514721622651838
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_58
+  - first:
+      213: 6466068269289253670
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_59
+  - first:
+      213: -3576891549773555148
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_60
+  - first:
+      213: 3916710203797105695
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_61
+  - first:
+      213: -3634494998746084660
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_62
+  - first:
+      213: 5567002740742949710
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_63
+  - first:
+      213: 3362970981837302025
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_64
+  - first:
+      213: -4686310801570747783
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_65
+  - first:
+      213: -2126227171333072911
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_66
+  - first:
+      213: 7039648582352774701
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_67
+  - first:
+      213: 5924724242691657077
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_68
+  - first:
+      213: -7542935996233557352
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_69
+  - first:
+      213: -1206951942335267660
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_70
+  - first:
+      213: 9014612032140003244
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_71
+  - first:
+      213: 6312408589401493085
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_72
+  - first:
+      213: -8750742003625120971
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_73
+  - first:
+      213: -3054090412396768401
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_74
+  - first:
+      213: -3990648775164706655
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_75
+  - first:
+      213: 1379476972227451868
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_76
+  - first:
+      213: -4579557049285410604
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_77
+  - first:
+      213: 107941777608361952
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_78
+  - first:
+      213: 4611812484753449635
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_79
+  - first:
+      213: 8481070535372525328
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_80
+  - first:
+      213: 4936397590029242692
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_81
+  - first:
+      213: 8667005343324219499
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_82
+  - first:
+      213: 7773487343614684982
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_83
+  - first:
+      213: 8717500362155387488
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_84
+  - first:
+      213: -1264917689368777809
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_85
+  - first:
+      213: 3231827757091867391
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_86
+  - first:
+      213: -8534813795918738361
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_87
+  - first:
+      213: -5215264511452339540
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_88
+  - first:
+      213: -121458693279206015
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_89
+  - first:
+      213: -4818214742145038541
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_90
+  - first:
+      213: -4304418664376513370
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_91
+  - first:
+      213: -3713371975312450972
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_92
+  - first:
+      213: 2077174998493426418
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_93
+  - first:
+      213: 2579536102840161888
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_94
+  - first:
+      213: 6008060970421168012
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_95
+  - first:
+      213: -2776860483204178065
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_96
+  - first:
+      213: -121132695659390532
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_97
+  - first:
+      213: -4026270391441319630
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_98
+  - first:
+      213: 6278450851304162186
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_99
+  - first:
+      213: -4477563658801986399
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_100
+  - first:
+      213: 5802385812864770957
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_101
+  - first:
+      213: 8266613839507717985
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_102
+  - first:
+      213: 71250572198931855
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_103
+  - first:
+      213: -1778623484531538328
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_104
+  - first:
+      213: -7539769036400001528
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_105
+  - first:
+      213: 5047970274101101778
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_106
+  - first:
+      213: 1873896411924373445
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_107
+  - first:
+      213: 1655441908067278829
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_108
+  - first:
+      213: 3043841150370781518
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_109
+  - first:
+      213: 1375335484913174369
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_110
+  - first:
+      213: -415320930350117860
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_111
+  - first:
+      213: 3136190580975226260
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_112
+  - first:
+      213: 4444025130213420486
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_113
+  - first:
+      213: -5441261427649236032
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_114
+  - first:
+      213: 8379923188054806715
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_115
+  - first:
+      213: 7108532214312082526
+    second: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_116
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 819
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddccf762b12ff3510800000000000000
+      internalID: 1531208596753206493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 819
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665d25e8f3fef960800000000000000
+      internalID: 7637810268389332583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 819
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9051e66cb7c2c1c70800000000000000
+      internalID: 8943071870172665097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 819
+        width: 46
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c8e94b5b1d5c940800000000000000
+      internalID: 5315885513530313872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 819
+        width: 46
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23558bf84fca24d0800000000000000
+      internalID: -3158484276282567894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 821
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15361d48ec86ef910800000000000000
+      internalID: 1873049731233571665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 819
+        width: 50
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b5f4586724a850800000000000000
+      internalID: 6387273500573677606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 819
+        width: 52
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de22b964580e3750800000000000000
+      internalID: 6286471288499351252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 819
+        width: 48
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5760858ca589b8c0800000000000000
+      internalID: -3983005419411839140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 739
+        width: 58
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0335b5335dc05ac0800000000000000
+      internalID: -3868366322644208883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 739
+        width: 66
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583c4b23eb93ca30800000000000000
+      internalID: 4234399474644695120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 741
+        width: 74
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365e84674b204ae0800000000000000
+      internalID: -1567205084695210445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 741
+        width: 70
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682bfd3e5c5a93f90800000000000000
+      internalID: -6973360278656273786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 735
+        width: 70
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72517c288dd7f80800000000000000
+      internalID: -8107085697999624283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 735
+        width: 72
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f76df52ec07d70800000000000000
+      internalID: 9038951114693144929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 735
+        width: 72
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0e08f370e21fd0800000000000000
+      internalID: -2372587264983299252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 635
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8f3223ab819d20800000000000000
+      internalID: 3283559136100321979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 635
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6152dfb8df4220800000000000000
+      internalID: 2472433038828596681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 635
+        width: 46
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91553f3a0d2d7690800000000000000
+      internalID: -7602871073898147429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 635
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7df836712c02700800000000000000
+      internalID: 513623763230644209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 637
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db73078ac89938b00800000000000000
+      internalID: 829675585766700989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 635
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf224182b653d4180800000000000000
+      internalID: -9129582135259946244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 637
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e73f88d6f857f0800000000000000
+      internalID: -623477138414639501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_24
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 643
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b5255085818d430800000000000000
+      internalID: 3807820251267226486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 643
+        width: 46
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa2feea0ebfcfe0800000000000000
+      internalID: -1166504824297837980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 549
+        width: 83
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb20626e0234a110800000000000000
+      internalID: 1271196032186723249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 549
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37b56e95b0ca61d0800000000000000
+      internalID: -3356658685972203718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 547
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad98a1cc80159c0800000000000000
+      internalID: -3940358526260880781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 547
+        width: 76
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e963104e18aa40800000000000000
+      internalID: 5379583015446504057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 547
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0acfa0779fd7eb0800000000000000
+      internalID: -4720342544733658975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 547
+        width: 62
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52fd4efef066f420800000000000000
+      internalID: 2663422877940707930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 547
+        width: 70
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269bf4b8983461740800000000000000
+      internalID: 5122355884207356258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 459
+        width: 58
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34942e46cf3d0f0800000000000000
+      internalID: -1093252774297517106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 461
+        width: 60
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f9955dc36235e0800000000000000
+      internalID: -1931371556632923518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 459
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea610006f90fd70800000000000000
+      internalID: 9074928483818712779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_36
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 459
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c32ea9ea583d30800000000000000
+      internalID: 4411375794704859195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 461
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde93ba88f236c00800000000000000
+      internalID: 892609415184248285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_38
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 459
+        width: 58
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042c3244224da3e0800000000000000
+      internalID: -2040902332631473149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 459
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84002d2f40aba00800000000000000
+      internalID: 772935726999292146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_40
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 459
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f01b7b43ee4e2b0800000000000000
+      internalID: -5556054130080805086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 371
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e61eb3b41a3b30800000000000000
+      internalID: 4267746359107840324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 371
+        width: 46
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f342f4b4ef950c0800000000000000
+      internalID: -4586355146096361688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 371
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac983e2e08a3f920800000000000000
+      internalID: 3022944553754205354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_44
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 371
+        width: 66
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561242ede5d8e4e0800000000000000
+      internalID: -1952075220785162672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 371
+        width: 50
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaaecb11bdf20500800000000000000
+      internalID: 361129857260628734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_46
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 373
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad1f40cac9e2fe10800000000000000
+      internalID: 2230101822520892836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 373
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63336dfb86f2b24d0800000000000000
+      internalID: -3158378586728680650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_48
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 373
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc96c75b01684c0800000000000000
+      internalID: -4285719623734014493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 50
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb85c747fd8c8e440800000000000000
+      internalID: 4965439451233540287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 280
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e5121a7f7dac90800000000000000
+      internalID: -7156924070555688733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 282
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb0b67f11388b180800000000000000
+      internalID: -9099378933913416715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 286
+        width: 62
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154dcc8aa54b7690800000000000000
+      internalID: -7603406947075930851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 284
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f63ca5154b6e90800000000000000
+      internalID: -7031450433822985576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 286
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7e8d1e78d385c0800000000000000
+      internalID: -4214286790115296483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_55
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 280
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc32a05976cde40800000000000000
+      internalID: 5682530719652630520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_56
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 284
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707cd6434f6cc0a20800000000000000
+      internalID: 3030015401467430663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ceff10c71117e00800000000000000
+      internalID: 1040632213206461489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 183
+        width: 50
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f554713fce6710800000000000000
+      internalID: 1688514721622651838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 183
+        width: 48
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b296c05d61cb950800000000000000
+      internalID: 6466068269289253670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 183
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a96af26145c5ec0800000000000000
+      internalID: -3576891549773555148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 187
+        width: 48
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6971cd23fa5630800000000000000
+      internalID: 3916710203797105695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_62
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 187
+        width: 50
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca4ec51e0eaf8dc0800000000000000
+      internalID: -3634494998746084660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_63
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 185
+        width: 52
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0c995f77f14d40800000000000000
+      internalID: 5567002740742949710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_64
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 185
+        width: 52
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909eb5a4a4cabae20800000000000000
+      internalID: 3362970981837302025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_65
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 185
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aac45b721e6feb0800000000000000
+      internalID: -4686310801570747783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 160
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f798e427af1e72e0800000000000000
+      internalID: -2126227171333072911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2628b6861bd1b160800000000000000
+      internalID: 7039648582352774701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 162
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d08c5ee49d83250800000000000000
+      internalID: 5924724242691657077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_69
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 96
+        width: 60
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89addf4fcab125790800000000000000
+      internalID: -7542935996233557352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_70
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 96
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc73286a9b004fe0800000000000000
+      internalID: -1206951942335267660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7caabb1e55a1d70800000000000000
+      internalID: 9014612032140003244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 62
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e8660ea2e2a9750800000000000000
+      internalID: 6312408589401493085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 158
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba5d8d28e1f8680800000000000000
+      internalID: -8750742003625120971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631a2183f0bd95d0800000000000000
+      internalID: -3054090412396768401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 96
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c5f4151e5e98c0800000000000000
+      internalID: -3990648775164706655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_76
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 158
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd2795ff2e42310800000000000000
+      internalID: 1379476972227451868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_77
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 156
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d005b090252270c0800000000000000
+      internalID: -4579557049285410604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 96
+        width: 58
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e745ce897c7f7100800000000000000
+      internalID: 107941777608361952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 84
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e07c3503700040800000000000000
+      internalID: 4611812484753449635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 80
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f49ef97b0d2b570800000000000000
+      internalID: 8481070535372525328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 72
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44199c7347b918440800000000000000
+      internalID: 4936397590029242692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_82
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 78
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a043a073674870800000000000000
+      internalID: 8667005343324219499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_83
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 68
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe526ad89f0eb60800000000000000
+      internalID: 7773487343614684982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10029178_sonic-sprite-modern-sonic-advance-sprites-transparent-png_84
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 74
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6c9f5468caf870800000000000000
+      internalID: 8717500362155387488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
