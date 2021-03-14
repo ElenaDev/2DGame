@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
+    public int damageGhost;
     public float speed;
     public int direction;//esto va a valer 1 o -1
     private void Start()

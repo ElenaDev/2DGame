@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// Clase Enemy programado en modo "código Jam" :D
+/// </summary>
 public class Enemy : MonoBehaviour
 {
     [Header("Speed")]

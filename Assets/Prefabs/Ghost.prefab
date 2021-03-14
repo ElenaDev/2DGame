@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 1276370101681214473}
   - component: {fileID: 1276370101681214472}
   - component: {fileID: 5183777444801067831}
+  - component: {fileID: 7464672964340687951}
   m_Layer: 0
   m_Name: Ghost
-  m_TagString: Untagged
+  m_TagString: Ghost
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115,5 +116,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6761eb14dd6a2f4b8e16d130961f34e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageGhost: 10
   speed: 10
   direction: 0
+--- !u!58 &7464672964340687951
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1276370101681214479}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.011985699, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.13827929

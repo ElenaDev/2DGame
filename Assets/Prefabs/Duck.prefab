@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 378603640514692846}
   m_Layer: 0
   m_Name: Duck
-  m_TagString: Untagged
+  m_TagString: Duck
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -138,3 +138,5 @@ MonoBehaviour:
   forceX: 180
   forceY: 130
   forceTorque: -20
+  timeDestroy: 3
+  damageDuck: 10
