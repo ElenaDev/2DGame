@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Platform
   - Kiwi
+  - MelonLife
+  - Duck
+  - Ghost
   layers:
   - Default
   - TransparentFX
