@@ -61,6 +61,11 @@ public class PlayerHealth : MonoBehaviour
             currentFillAmount = currentHealth / maxHealth;
             Destroy(collision.gameObject);
         }
+        else if (collision.CompareTag("Bullet"))
+        {
+            TakeDamage(20);
+            Destroy(collision.gameObject);
+        }
     }
     void Death()
     {

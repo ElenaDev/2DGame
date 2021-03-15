@@ -7,8 +7,10 @@ public class EnemyHealth : MonoBehaviour
     public float currentHealth;
     public float maxHealth;
     public GameObject deathEnemyAnim;
+    public float factor;
 
     SpriteRenderer spriteRenderer;
+    float alphaValue;//el valor del canal alpha que quiero mostrar
 
     private void Awake()
     {
@@ -17,14 +19,24 @@ public class EnemyHealth : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
+        alphaValue = 1;
+    }
+
+    private void Update()
+    {
+        if(spriteRenderer.color.a >= alphaValue)
+        {
+            spriteRenderer.color = new Color(spriteRenderer.color.r, spriteRenderer.color.g,
+                spriteRenderer.color.b, spriteRenderer.color.a - Time.deltaTime * factor);
+        }
     }
 
     public void TakeDamage(int amount)
     {
        // currentHealth = currentHealth - amount;
         currentHealth -= amount;
-        spriteRenderer.color = new Color(spriteRenderer.color.r, spriteRenderer.color.g,
-            spriteRenderer.color.b, currentHealth / maxHealth);
+        alphaValue = currentHealth / maxHealth;
+
 
         if(currentHealth <= 0)
         {
