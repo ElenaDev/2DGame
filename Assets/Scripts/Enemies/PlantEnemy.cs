@@ -14,11 +14,12 @@ public class PlantEnemy : MonoBehaviour
     int direction = 1;
     Animator anim;
     SpriteRenderer spriteRenderer;
-
+    EnemyHealth enemyHealth;
     private void Awake()
     {
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        enemyHealth = GetComponent<EnemyHealth>();
     }
     void Start()
     {
@@ -63,6 +64,26 @@ public class PlantEnemy : MonoBehaviour
             direction = -1;
             positionBullet = posLeft.position;
             spriteRenderer.flipX = false;
+        }
+    }
+    //colisión trigger
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        //si ha entrado el fantasma en el collider de la planta
+        if(collision.CompareTag("Ghost"))
+        {
+            //llamo a la función Takedamage que está en el script EnemyHealth y le paso la cantidad de vida que le 
+            //vamos a quitar a la planta
+            enemyHealth.TakeDamage(collision.GetComponent<Projectile>().damageGhost);
+            Destroy(collision.gameObject);
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.collider.CompareTag("Duck"))
+        {
+            enemyHealth.TakeDamage(collision.collider.GetComponent<ProjectileDuck>().damageDuck);
+            Destroy(collision.gameObject);
         }
     }
 }

@@ -27,11 +27,11 @@ public class PlayerHealth : MonoBehaviour
 
     void Update()
     {
-        if(lifeUI.fillAmount>= currentFillAmount)
+        if(lifeUI.fillAmount > currentFillAmount)
         {
             lifeUI.fillAmount -= Time.deltaTime * factor;
         }
-        else if(lifeUI.fillAmount <= currentFillAmount)
+        else if(lifeUI.fillAmount < currentFillAmount)
         {
             lifeUI.fillAmount += Time.deltaTime * factor;
         }
@@ -73,5 +73,7 @@ public class PlayerHealth : MonoBehaviour
         GetComponent<Player2DController>().enabled = false;//el jugador ya no puede controlar al player
         GetComponent<BoxCollider2D>().enabled = false;
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * forceJump);
+
+        Camera.main.GetComponent<GameOver>().enabled = true;
     }
 }
