@@ -736,7 +736,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 369795315}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.59, y: -2.21, z: 0}
+  m_LocalPosition: {x: -10, y: -1.92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1108926251}
@@ -1118,6 +1118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 898766218}
   - component: {fileID: 898766217}
+  - component: {fileID: 898766219}
   m_Layer: 0
   m_Name: BG_mountains_noon2_1024
   m_TagString: Untagged
@@ -1189,6 +1190,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &898766219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898766216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc5564b5be569e419bb6ca5cb82d0fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distance: 20
+  smoothing: 1
 --- !u!1 &1031526362
 GameObject:
   m_ObjectHideFlags: 0
@@ -5336,6 +5351,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1752876296}
   - component: {fileID: 1752876295}
+  - component: {fileID: 1752876297}
   m_Layer: 0
   m_Name: BG_mountains_noon_1024
   m_TagString: Untagged
@@ -5407,6 +5423,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1752876297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1752876294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc5564b5be569e419bb6ca5cb82d0fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distance: 20
+  smoothing: 1
 --- !u!1 &1760225800
 GameObject:
   m_ObjectHideFlags: 0
@@ -5931,7 +5961,7 @@ SpriteRenderer:
   m_Sprite: {fileID: 8538975791002790759, guid: 17f1500d499e1e546814f4f32624b47e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.5333333, y: 1}
